@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TJ VMT</title>
+  <link rel="icon" type="image/x-icon" href="https://tjvmt.com/_next/image?url=%2Fimages%2Flogo.png&w=1920&q=75">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <body style="background-color:#040b33;">
+  <nav>
+    <a href>
+    <img src = "https://tjvmt.com/_next/image?url=%2Fimages%2Flogo.png&w=1920&q=75" alt = "VMT venn diagram" style = "position: fixed;">
+    </a> 
+    
+    <a href="https://vmt-website.laurazhang1.repl.co/" style = "position:fixed; left:800px; top:20px" > 
+      <button class="button button1">Home</button></a>
+    <a href="https://tjvmt.com/tjimo" style = "position:fixed; left:880px; top:20px">
+      <button class="button button1">TJIMO</button></a>
+    <a href="https://tjvmt.com/resources" style = "position:fixed; left:960px; top:20px">
+      <button class="button button1">Resources</button></a>
+    <a href= "mailto:vmtofficers@gmail.com" style = "position:fixed; left:1100px; top:20px">
+    <button class="button button2">Contact</button></a>
+  
+  </nav>
+   
+  <div class = "top">
+    <p>
+    Hello, we are...
+    </p>
+    <img src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fnametag.png&w=1920&q=75" alt = "VMT logo" class ="center">
+    <p style = "text-align: right;">
+    ...one of the most successful math teams in the nation.
+    </p>
+  </div>
+    
+  <br>
+    
+  <div class = "section"> 
+    <img src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fexperience%2FL1.png&w=1920&q=75" alt = "The Individual" class = "center resize">
+
+    <h1 class= "center">
+    The Individual
+    </h1>
+    
+     <ul class = "center">
+      <li>Develop your problem solving skills weekly by attending guest lectures and afterschool Monday Practices.</li>
+      <li>Learn new math topics to prepare for national competitions and become a better mathlete.  </li>
+    </ul>
+</div>
+
+<br>
+    
+  <div class = "section">
+   <img src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fexperience%2FL2.png&w=1920&q=75" alt = "The Friend Group" class = "center resize">
+    
+    <h1 class = "center">
+    The Friend Group
+    </h1>
+
+  <ul class = "center">
+        <li>Here at VMT we have lots of fun. Join us for pie eating contests, plank countdowns, and more!</li>
+        <li>Give back to the math community by volunteering at outreach events like Techstravaganza and TJIMO.</li>
+      </ul> 
+  </div>
+
+<br>
+    
+<div class = "section">
+   <img src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fexperience%2FL3_v2.png&w=1920&q=75" alt = "The Friend Group" class = "center resize">
+    
+    <h1 class = "center">
+    The Community
+    </h1>
+
+  <ul class = "center">
+        <li>Here at VMT we have lots of fun. Join us for pie eating contests, plank countdowns, and more!
+</li>
+        <li>Give back to the math community by volunteering at outreach events like Techstravaganza and TJIMO.</li>
+      </ul> 
+  </div>
+
+  <br>
+
+    <div class = "section">
+   <img src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fexperience%2FL4.png&w=1920&q=75" alt = "The Journey" class = "center resize">
+    
+    <h1 class = "center">
+    The Journey
+    </h1>
+
+  <ul class = "center">
+        <li>Our team meets during 8th period on Wednesday A and B block as well as Thursday after school in spring.</li>
+      <li>Whether your an experienced mathlete or curious beginner, VMT is an excellent way to spend your time in high school.</li>
+      </ul> 
+    </div>
+
+  <br> 
+  <div style = "padding-top: 5%; padding-bottom: 5%;">
+    <div class = "left" style = "float: left;">
+         <img src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fteam.png&w=1920&q=75" alt = "Duke" style = "width: 525px; height: auto;">
+        <h1>
+          Leadership
+        </h1>
+        <p>
+          By giving lectures and organizing activities, our officers work regularly to provide a great VMT experience for everyone, and VMT would not be possible without the help of our sponsors: Ms. Razzino + Dr. Lampazzi
+        </p>
+    </div>
+
+    <div class = "right" style = "float: right; padding-bottom: 5%;">
+      <img class = "resizeOfficer" src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fofficers%2Fgarrett.jpg&w=1920&q=75" alt = "Garrett">
+    
+      <img class = "resizeOfficer" src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fofficers%2Fdrew.jpg&w=1920&q=75" alt = "Andrew">
+      <img class = "resizeOfficer" src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fofficers%2Fhilal.jpg&w=1920&q=75" alt = "Hilal">
+    
+      <img class = "resizeOfficer" src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fofficers%2Fcaleb.jpg&w=1920&q=75" alt = "Caleb">
+    
+      <img class = "resizeOfficer" src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fofficers%2Fpranav.jpg&w=1920&q=75" alt = "Pranav">
+    
+      <img class = "resizeOfficer" src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fofficers%2Fnikhil.jpg&w=1920&q=75" alt = "Nikhil">
+    
+      <img class = "resizeOfficer" src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fofficers%2Fmihika.jpg&w=1920&q=75" alt = "Mihika">
+    
+      <img class = "resizeOfficer" src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fofficers%2Faarav.jpg&w=1920&q=75" alt = "Aarav">
+    
+      <img class = "resizeOfficer" src = "https://tjvmt.com/_next/image?url=%2Fimages%2Fofficers%2Fshyla.jpg&w=1920&q=75" alt = "Shyla">
+  </div>
+</div>
+    
+<footer>
+    <p class = "footerText" style = "font-size: 24px;">
+      <b>TJHSST Varsity Math Team</b>
+    </p>
+    <p class = "footerText">
+      <a href = "mailto: vmtofficers@gmail.com"> Email: vmtofficers@gmail.com </a>
+      <br>
+      <a href = "facebook.com/groups/198737200195082"> Facebook: facebook.com/groups/198737200195082 </a>
+    </p>
+    <p class = "footerText">
+      Website by <a href = "https://arulandu.com/"> Alvan Caleb Arulandu </a>
+      <br>
+      Photo Credits: Fiona Zheng, Avni Garg
+    </p>
+</footer>
+</body>
+
+</html>
